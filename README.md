@@ -6,7 +6,7 @@
 ![Privacidade](https://img.shields.io/badge/privacidade-100%25%20local-blue)
 ![Feito para](https://img.shields.io/badge/feito%20para-motorista%20e%20motoboy-black)
 
-### [➡️ Acesse a Calculadora Ao Vivo] https://darkseagreen-wasp-558967.hostingersite.com/lucroreal/
+### [➡️ Acesse a Calculadora Ao Vivo] https://projetos.nullcipher.site/lucroreal/
 
 ---
 
