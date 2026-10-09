@@ -86,6 +86,6 @@ Feito por Alife para quem vive na pista.
 Se esse projeto te ajudou a entender seu lucro real, deixa uma ⭐ no repositório.
 
 Licença: MIT - Pode usar, copiar e melhorar à vontade.
-<img width="1317" height="813" alt="Captura de tela 2026-10-09 004113" src="https://github.com/user-attachments/assets/cb4eb0c6-2b79-47ee-bd91-00528c6c4cd2" />
+
 
 
