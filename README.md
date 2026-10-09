@@ -65,7 +65,7 @@ Code
 
 ```bash
 # 1. Clone o projeto
-git clone https://darkseagreen-wasp-558967.hostingersite.com/lucroreal/
+git clone https://github.com/NullCipher-debug/Lucro_Real
 
 # 2. Entre na pasta
 cd lucro-real
